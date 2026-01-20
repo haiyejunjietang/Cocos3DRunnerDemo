@@ -1,0 +1,21 @@
+{
+  "version": "2.3.13",
+  "sourceTimeStamp": 1763429956000,
+  "outputTimeStamps": {
+    "log.json": 1763461281826.4395,
+    "out.bin": 1763461281820.0137,
+    "out.gltf": 1763461281824.4375,
+    "texture_diffuse.png": 1763461280768.6394,
+    "texture_metallic.png": 1763461280784.3484,
+    "texture_normal.png": 1763461280780.2314,
+    "texture_roughness.png": 1763461280783.3484,
+    ".fbm/10FA1C93/base_basic_pbr.fbm/texture_diffuse.png": 1763461280768.6394,
+    ".fbm/10FA1C93/base_basic_pbr.fbm/texture_metallic.png": 1763461280784.3484,
+    ".fbm/10FA1C93/base_basic_pbr.fbm/texture_normal.png": 1763461280780.2314,
+    ".fbm/10FA1C93/base_basic_pbr.fbm/texture_roughness.png": 1763461280783.3484
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

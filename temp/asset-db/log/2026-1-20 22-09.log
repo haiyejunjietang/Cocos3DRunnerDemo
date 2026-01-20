@@ -1,0 +1,274 @@
+2026-1-20 22:09:23-log: Cannot access game frame or container.
+2026-1-20 22:09:23-debug: asset-db:require-engine-code (1277ms)
+2026-1-20 22:09:23-log: meshopt wasm decoder initialized
+2026-1-20 22:09:23-log: [box2d]:box2d wasm lib loaded.
+2026-1-20 22:09:23-log: [bullet]:bullet wasm lib loaded.
+2026-1-20 22:09:23-log: Cocos Creator v3.8.6
+2026-1-20 22:09:23-log: Forward render pipeline initialized.
+2026-1-20 22:09:23-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:31.57MB, end 80.23MB, increase: 48.66MB
+2026-1-20 22:09:23-log: Using legacy pipeline
+2026-1-20 22:09:24-debug: [Assets Memory track]: asset-db-plugin-register: programming start:81.33MB, end 84.13MB, increase: 2.80MB
+2026-1-20 22:09:26-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:225.39MB, end 228.51MB, increase: 3.12MB
+2026-1-20 22:09:26-debug: [Assets Memory track]: asset-db-plugin-register: builder start:84.17MB, end 225.14MB, increase: 140.97MB
+2026-1-20 22:09:26-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:80.26MB, end 228.75MB, increase: 148.50MB
+2026-1-20 22:09:26-debug: [Assets Memory track]: asset-db-plugin-register: project start:81.18MB, end 228.72MB, increase: 147.53MB
+2026-1-20 22:09:26-debug: asset-db:worker-init: initPlugin (2405ms)
+2026-1-20 22:09:26-debug: [Assets Memory track]: asset-db:worker-init start:31.56MB, end 228.86MB, increase: 197.30MB
+2026-1-20 22:09:26-debug: Run asset db hook programming:beforePreStart ...
+2026-1-20 22:09:26-debug: Run asset db hook programming:beforePreStart success!
+2026-1-20 22:09:26-debug: Run asset db hook engine-extends:beforePreStart success!
+2026-1-20 22:09:26-debug: Run asset db hook engine-extends:beforePreStart ...
+2026-1-20 22:09:26-debug: asset-db:worker-init (4137ms)
+2026-1-20 22:09:26-debug: asset-db-hook-programming-beforePreStart (331ms)
+2026-1-20 22:09:26-debug: asset-db-hook-engine-extends-beforePreStart (330ms)
+2026-1-20 22:09:26-debug: Preimport db internal success
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skyboxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\matbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Prefabsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEndbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\playerbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\Camera.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scriptsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\collision.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\HUD_Distance.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\ForeverManager.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\LevelSelect.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\Manu.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\star_tip.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\UIManager.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scripts\Player.tsbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:26-debug: Preimport db assets success
+2026-1-20 22:09:26-debug: Run asset db hook programming:afterPreStart ...
+2026-1-20 22:09:26-debug: starting packer-driver...
+2026-1-20 22:09:28-debug: initialize scripting environment...
+2026-1-20 22:09:28-debug: [[Executor]] prepare before lock
+2026-1-20 22:09:28-debug: Set detail map pack:///resolution-detail-map.json: {}
+2026-1-20 22:09:28-debug: [[Executor]] prepare after unlock
+2026-1-20 22:09:28-debug: Run asset db hook programming:afterPreStart success!
+2026-1-20 22:09:28-debug: Run asset db hook engine-extends:afterPreStart ...
+2026-1-20 22:09:28-debug: [Assets Memory track]: asset-db:worker-init: preStart start:228.87MB, end 230.91MB, increase: 2.04MB
+2026-1-20 22:09:28-debug: Run asset db hook engine-extends:afterPreStart success!
+2026-1-20 22:09:28-debug: Start up the 'internal' database...
+2026-1-20 22:09:28-debug: asset-db-hook-programming-afterPreStart (1842ms)
+2026-1-20 22:09:28-debug: asset-db:worker-effect-data-processing (559ms)
+2026-1-20 22:09:28-debug: asset-db-hook-engine-extends-afterPreStart (559ms)
+2026-1-20 22:09:28-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:228.95MB, end 243.11MB, increase: 14.16MB
+2026-1-20 22:09:28-debug: Start up the 'assets' database...
+2026-1-20 22:09:28-debug: asset-db:worker-startup-database[internal] (2578ms)
+2026-1-20 22:09:28-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\BlockEnd.mtlbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:28-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\Ground.pmtlbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:28-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Chicken Dance.fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: Frame rate: 30 [{asset(5a814e36-bf4b-4d20-aae9-2ce9f92e3385)}]
+2026-1-20 22:09:29-debug: Local time: [0.000000, 4.766667] [{asset(5a814e36-bf4b-4d20-aae9-2ce9f92e3385)}]
+2026-1-20 22:09:29-debug: Frame rate: 30 [{asset(5a814e36-bf4b-4d20-aae9-2ce9f92e3385)}]
+2026-1-20 22:09:29-debug: Reference time: [0.000000, 4.766667] [{asset(5a814e36-bf4b-4d20-aae9-2ce9f92e3385)}]
+2026-1-20 22:09:29-debug: Take mixamo.com: 4.766666666666667s [{asset(5a814e36-bf4b-4d20-aae9-2ce9f92e3385)}]
+2026-1-20 22:09:29-debug: 以下结点指定了不支持的继承类型 [RrSs]: [mixamorig:Hips,mixamorig:Spine,mixamorig:Spine1,mixamorig:Spine2,mixamorig:Neck,mixamorig:Head,mixamorig:HeadTop_End,mixamorig:LeftShoulder,mixamorig:LeftArm,mixamorig:LeftForeArm,mixamorig:LeftHand,mixamorig:LeftHandIndex1,mixamorig:LeftHandIndex2,mixamorig:LeftHandIndex3,mixamorig:LeftHandIndex4,mixamorig:RightShoulder,mixamorig:RightArm,mixamorig:RightForeArm,mixamorig:RightHand,mixamorig:RightHandIndex1,mixamorig:RightHandIndex2,mixamorig:RightHandIndex3,mixamorig:RightHandIndex4,mixamorig:LeftUpLeg,mixamorig:LeftLeg,mixamorig:LeftFoot,mixamorig:LeftToeBase,mixamorig:LeftToe_End,mixamorig:RightUpLeg,mixamorig:RightLeg,mixamorig:RightFoot,mixamorig:RightToeBase,mixamorig:RightToe_End]。 [{asset(5a814e36-bf4b-4d20-aae9-2ce9f92e3385)}]
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\player.glbbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdrbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: Start to conver asset {asset[d66267eb-bc54-4ad9-9282-88d7642f0053](d66267eb-bc54-4ad9-9282-88d7642f0053)}
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\player.glb@52512background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: Frame rate: 24 [{asset(a340c7a6-f151-4907-b427-d9b95a4022c3)}]
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.png@b47c0background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\player.glb@f04dbbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\player.glb@e39f7background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\player.glb@f8f78background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\player.glb@7675dbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: Conver assetD:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdr -> PNG success.
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\mat\player.mtlbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Prefabs\Block02.prefabbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdr@b47c0background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:29-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Prefabs\Block03.prefabbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.png@b47c0@74afdbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Prefabs\Block04.prefabbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Chicken Dance.fbx@98766background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Chicken Dance.fbx@3399fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.png@b47c0@8fd34background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Prefabs\BlockEnd.prefabbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.png@b47c0@bb97fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.png@b47c0@7d38fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Prefabs\Level-foreverBace.prefabbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.png@b47c0@e9a6dbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Prefabs\LevelBace.prefabbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.png@b47c0@40c10background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:31-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdr@b47c0@74afdbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@3679cbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-001.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Chicken Dance.fbx@18d6fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdr@b47c0@8fd34background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-002.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Chicken Dance.fbx@438febackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Chicken Dance.fbx@69dd9background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdr@b47c0@bb97fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-003.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-004.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@48b02background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-005.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdr@b47c0@7d38fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-006.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-007.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-008.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdr@b47c0@e9a6dbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-009.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\default_skybox\default_skybox.hdr@b47c0@40c10background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-010.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-forever.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\level-select.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\scene\Manu.scenebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base.fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\shaded.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: Frame rate: 24 [{asset(3409122e-8b9f-401b-b41d-86c515ad9594)}]
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_shaded.fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@1bbb1background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\shaded.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: Frame rate: 24 [{asset(cc8cf34f-3df7-4d7e-87b9-b98b6e3f0af6)}]
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_diffuse.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:33-debug: Frame rate: 24 [{asset(ca411b8c-9462-45d8-9870-1796c560b850)}]
+2026-1-20 22:09:33-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@cf2e8background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:34-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base.fbx@98766background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:34-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base.fbx@3399fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:34-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_diffuse.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:34-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_metallic.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:35-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_shaded.fbx@76359background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:35-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@8d321background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:35-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base.fbx@c5edbbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:35-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_metallic.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_normal.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@98766background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@3399fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_pbr.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_shaded.fbx@98766background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@400bebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_shaded.fbx@3399fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@75fa1background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_normal.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@48b02background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@d945abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@1043ebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_pbr.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\Ground.fbx@7621ebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_roughness.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@1bbb1background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_shaded.fbx@9bbd3background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base.fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_shaded.fbx@3acfebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\texture_roughness.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\shaded.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: Frame rate: 24 [{asset(5db0a2ed-ce14-4738-9164-de109656b675)}]
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@cf2e8background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_shaded.fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbxbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@8d321background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: Frame rate: 24 [{asset(58b69e47-702b-438b-91d6-9c6cc3b4b6e8)}]
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\shaded.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: Frame rate: 24 [{asset(13068ef6-4c36-44df-8c3e-8cc7f91ee367)}]
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_diffuse.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@400bebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@75fa1background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:36-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@d945abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:37-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base.fbx@98766background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:37-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\BlockEnd\base_basic_pbr.fbx@695f2background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:37-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base.fbx@3399fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:37-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_diffuse.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:37-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_metallic.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:37-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_normal.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_shaded.fbx@76359background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base.fbx@c5edbbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_metallic.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@98766background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_pbr.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@3399fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_roughness.pngbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_normal.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_shaded.fbx@98766background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:38-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_shaded.fbx@3399fbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@48b02background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_roughness.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\texture_pbr.png@6c48abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@1bbb1background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_shaded.fbx@9bbd3background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_shaded.fbx@3acfebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@cf2e8background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@8d321background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@400bebackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@75fa1background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@d945abackground: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: %cImport%c: D:\tangjianhua\cocos games\JareAdventure_\assets\Fbx\player\base_basic_pbr.fbx@695f2background: #aaff85; color: #000;color: #000;
+2026-1-20 22:09:39-debug: lazy register asset handler *
+2026-1-20 22:09:39-debug: lazy register asset handler directory
+2026-1-20 22:09:39-debug: lazy register asset handler text
+2026-1-20 22:09:39-debug: lazy register asset handler spine-data
+2026-1-20 22:09:39-debug: lazy register asset handler dragonbones
+2026-1-20 22:09:39-debug: lazy register asset handler dragonbones-atlas
+2026-1-20 22:09:39-debug: lazy register asset handler json
+2026-1-20 22:09:39-debug: lazy register asset handler terrain
+2026-1-20 22:09:39-debug: lazy register asset handler javascript
+2026-1-20 22:09:39-debug: lazy register asset handler scene
+2026-1-20 22:09:39-debug: lazy register asset handler typescript
+2026-1-20 22:09:39-debug: lazy register asset handler sprite-frame
+2026-1-20 22:09:39-debug: lazy register asset handler prefab
+2026-1-20 22:09:39-debug: lazy register asset handler tiled-map
+2026-1-20 22:09:39-debug: lazy register asset handler buffer
+2026-1-20 22:09:39-debug: lazy register asset handler sign-image
+2026-1-20 22:09:39-debug: lazy register asset handler alpha-image
+2026-1-20 22:09:39-debug: lazy register asset handler texture-cube
+2026-1-20 22:09:39-debug: lazy register asset handler texture
+2026-1-20 22:09:39-debug: lazy register asset handler image
+2026-1-20 22:09:39-debug: lazy register asset handler render-texture
+2026-1-20 22:09:39-debug: lazy register asset handler erp-texture-cube
+2026-1-20 22:09:39-debug: lazy register asset handler texture-cube-face
+2026-1-20 22:09:39-debug: lazy register asset handler rt-sprite-frame
+2026-1-20 22:09:39-debug: lazy register asset handler gltf
+2026-1-20 22:09:39-debug: lazy register asset handler gltf-mesh
+2026-1-20 22:09:39-debug: lazy register asset handler gltf-animation
+2026-1-20 22:09:39-debug: lazy register asset handler gltf-skeleton
+2026-1-20 22:09:39-debug: lazy register asset handler gltf-material
+2026-1-20 22:09:39-debug: lazy register asset handler gltf-scene
+2026-1-20 22:09:39-debug: lazy register asset handler gltf-embeded-image
+2026-1-20 22:09:39-debug: lazy register asset handler physics-material
+2026-1-20 22:09:39-debug: lazy register asset handler fbx
+2026-1-20 22:09:39-debug: lazy register asset handler material
+2026-1-20 22:09:39-debug: lazy register asset handler effect
+2026-1-20 22:09:39-debug: lazy register asset handler effect-header
+2026-1-20 22:09:39-debug: lazy register asset handler animation-clip
+2026-1-20 22:09:39-debug: lazy register asset handler animation-graph
+2026-1-20 22:09:39-debug: lazy register asset handler animation-graph-variant
+2026-1-20 22:09:39-debug: lazy register asset handler animation-mask
+2026-1-20 22:09:39-debug: lazy register asset handler ttf-font
+2026-1-20 22:09:39-debug: lazy register asset handler bitmap-font
+2026-1-20 22:09:39-debug: lazy register asset handler sprite-atlas
+2026-1-20 22:09:39-debug: lazy register asset handler audio-clip
+2026-1-20 22:09:39-debug: lazy register asset handler particle
+2026-1-20 22:09:39-debug: lazy register asset handler auto-atlas
+2026-1-20 22:09:39-debug: lazy register asset handler render-stage
+2026-1-20 22:09:39-debug: lazy register asset handler label-atlas
+2026-1-20 22:09:39-debug: lazy register asset handler render-pipeline
+2026-1-20 22:09:39-debug: lazy register asset handler instantiation-material
+2026-1-20 22:09:39-debug: lazy register asset handler render-flow
+2026-1-20 22:09:39-debug: lazy register asset handler instantiation-mesh
+2026-1-20 22:09:39-debug: lazy register asset handler instantiation-animation
+2026-1-20 22:09:39-debug: lazy register asset handler video-clip
+2026-1-20 22:09:39-debug: lazy register asset handler instantiation-skeleton
+2026-1-20 22:09:39-debug: asset-db:worker-startup-database[assets] (12319ms)
+2026-1-20 22:09:39-debug: asset-db:start-database (12813ms)
+2026-1-20 22:09:39-debug: asset-db:ready (20613ms)
+2026-1-20 22:09:39-debug: fix the bug of updateDefaultUserData
+2026-1-20 22:09:39-debug: init worker message success
+2026-1-20 22:09:39-debug: programming:execute-script (10ms)
+2026-1-20 22:09:39-debug: [Build Memory track]: builder:worker-init start:190.10MB, end 197.88MB, increase: 7.78MB
+2026-1-20 22:09:39-debug: builder:worker-init (699ms)
+2026-1-20 22:10:32-debug: refresh db internal success
+2026-1-20 22:10:32-debug: refresh db assets success
+2026-1-20 22:10:32-debug: Run asset db hook engine-extends:afterRefresh ...
+2026-1-20 22:10:32-debug: Run asset db hook engine-extends:afterRefresh success!
+2026-1-20 22:10:32-debug: asset-db:refresh-all-database (271ms)
+2026-1-20 22:10:32-debug: asset-db:worker-effect-data-processing (6ms)
+2026-1-20 22:10:32-debug: asset-db-hook-engine-extends-afterRefresh (7ms)

@@ -1,0 +1,119 @@
+2025-12-24 00:22:17-log: Cannot access game frame or container.
+2025-12-24 00:22:18-debug: asset-db:require-engine-code (1291ms)
+2025-12-24 00:22:18-log: [bullet]:bullet wasm lib loaded.
+2025-12-24 00:22:18-log: [box2d]:box2d wasm lib loaded.
+2025-12-24 00:22:18-log: meshopt wasm decoder initialized
+2025-12-24 00:22:18-log: Cocos Creator v3.8.6
+2025-12-24 00:22:18-log: Forward render pipeline initialized.
+2025-12-24 00:22:18-log: Using legacy pipeline
+2025-12-24 00:22:18-debug: [Assets Memory track]: asset-db-plugin-register: programming start:80.91MB, end 84.08MB, increase: 3.18MB
+2025-12-24 00:22:20-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:270.16MB, end 271.18MB, increase: 1.02MB
+2025-12-24 00:22:18-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:31.24MB, end 79.81MB, increase: 48.56MB
+2025-12-24 00:22:20-debug: [Assets Memory track]: asset-db-plugin-register: builder start:84.12MB, end 269.91MB, increase: 185.79MB
+2025-12-24 00:22:20-debug: [Assets Memory track]: asset-db-plugin-register: project start:80.76MB, end 271.39MB, increase: 190.63MB
+2025-12-24 00:22:20-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:79.83MB, end 271.42MB, increase: 191.59MB
+2025-12-24 00:22:20-debug: asset-db:worker-init: initPlugin (2110ms)
+2025-12-24 00:22:20-debug: [Assets Memory track]: asset-db:worker-init start:31.23MB, end 271.53MB, increase: 240.29MB
+2025-12-24 00:22:20-debug: Run asset db hook programming:beforePreStart ...
+2025-12-24 00:22:20-debug: Run asset db hook programming:beforePreStart success!
+2025-12-24 00:22:20-debug: Run asset db hook engine-extends:beforePreStart success!
+2025-12-24 00:22:20-debug: Run asset db hook engine-extends:beforePreStart ...
+2025-12-24 00:22:21-debug: asset-db-hook-programming-beforePreStart (303ms)
+2025-12-24 00:22:21-debug: asset-db:worker-init (3817ms)
+2025-12-24 00:22:21-debug: asset-db-hook-engine-extends-beforePreStart (303ms)
+2025-12-24 00:22:21-debug: Preimport db internal success
+2025-12-24 00:22:21-debug: Run asset db hook programming:afterPreStart ...
+2025-12-24 00:22:21-debug: Preimport db assets success
+2025-12-24 00:22:21-debug: starting packer-driver...
+2025-12-24 00:22:21-debug: initialize scripting environment...
+2025-12-24 00:22:21-debug: [[Executor]] prepare before lock
+2025-12-24 00:22:21-debug: Set detail map pack:///resolution-detail-map.json: {}
+2025-12-24 00:22:21-debug: [[Executor]] prepare after unlock
+2025-12-24 00:22:21-debug: Run asset db hook programming:afterPreStart success!
+2025-12-24 00:22:21-debug: Run asset db hook engine-extends:afterPreStart success!
+2025-12-24 00:22:21-debug: Run asset db hook engine-extends:afterPreStart ...
+2025-12-24 00:22:21-debug: Start up the 'internal' database...
+2025-12-24 00:22:22-debug: asset-db-hook-programming-afterPreStart (845ms)
+2025-12-24 00:22:22-debug: asset-db:worker-effect-data-processing (379ms)
+2025-12-24 00:22:22-debug: asset-db-hook-engine-extends-afterPreStart (379ms)
+2025-12-24 00:22:22-debug: Start up the 'assets' database...
+2025-12-24 00:22:22-debug: asset-db:worker-startup-database[internal] (1429ms)
+2025-12-24 00:22:22-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:175.44MB, end 187.30MB, increase: 11.85MB
+2025-12-24 00:22:22-debug: [Assets Memory track]: asset-db:worker-init: startup start:176.85MB, end 187.31MB, increase: 10.46MB
+2025-12-24 00:22:22-debug: lazy register asset handler *
+2025-12-24 00:22:22-debug: lazy register asset handler directory
+2025-12-24 00:22:22-debug: lazy register asset handler text
+2025-12-24 00:22:22-debug: lazy register asset handler json
+2025-12-24 00:22:22-debug: lazy register asset handler spine-data
+2025-12-24 00:22:22-debug: lazy register asset handler dragonbones
+2025-12-24 00:22:22-debug: lazy register asset handler dragonbones-atlas
+2025-12-24 00:22:22-debug: lazy register asset handler terrain
+2025-12-24 00:22:22-debug: lazy register asset handler javascript
+2025-12-24 00:22:22-debug: lazy register asset handler typescript
+2025-12-24 00:22:22-debug: lazy register asset handler sprite-frame
+2025-12-24 00:22:22-debug: lazy register asset handler scene
+2025-12-24 00:22:22-debug: lazy register asset handler prefab
+2025-12-24 00:22:22-debug: lazy register asset handler tiled-map
+2025-12-24 00:22:22-debug: lazy register asset handler sign-image
+2025-12-24 00:22:22-debug: lazy register asset handler buffer
+2025-12-24 00:22:22-debug: lazy register asset handler image
+2025-12-24 00:22:22-debug: lazy register asset handler alpha-image
+2025-12-24 00:22:22-debug: lazy register asset handler texture
+2025-12-24 00:22:22-debug: lazy register asset handler texture-cube
+2025-12-24 00:22:22-debug: lazy register asset handler erp-texture-cube
+2025-12-24 00:22:22-debug: lazy register asset handler texture-cube-face
+2025-12-24 00:22:22-debug: lazy register asset handler rt-sprite-frame
+2025-12-24 00:22:22-debug: lazy register asset handler render-texture
+2025-12-24 00:22:22-debug: lazy register asset handler gltf-mesh
+2025-12-24 00:22:22-debug: lazy register asset handler gltf
+2025-12-24 00:22:22-debug: lazy register asset handler gltf-animation
+2025-12-24 00:22:22-debug: lazy register asset handler gltf-skeleton
+2025-12-24 00:22:22-debug: lazy register asset handler gltf-scene
+2025-12-24 00:22:22-debug: lazy register asset handler gltf-material
+2025-12-24 00:22:22-debug: lazy register asset handler gltf-embeded-image
+2025-12-24 00:22:22-debug: lazy register asset handler fbx
+2025-12-24 00:22:22-debug: lazy register asset handler material
+2025-12-24 00:22:22-debug: lazy register asset handler effect
+2025-12-24 00:22:22-debug: lazy register asset handler physics-material
+2025-12-24 00:22:22-debug: lazy register asset handler effect-header
+2025-12-24 00:22:22-debug: lazy register asset handler audio-clip
+2025-12-24 00:22:22-debug: lazy register asset handler animation-clip
+2025-12-24 00:22:22-debug: lazy register asset handler animation-graph
+2025-12-24 00:22:22-debug: lazy register asset handler animation-graph-variant
+2025-12-24 00:22:22-debug: lazy register asset handler ttf-font
+2025-12-24 00:22:22-debug: lazy register asset handler animation-mask
+2025-12-24 00:22:22-debug: lazy register asset handler bitmap-font
+2025-12-24 00:22:22-debug: lazy register asset handler sprite-atlas
+2025-12-24 00:22:22-debug: lazy register asset handler particle
+2025-12-24 00:22:22-debug: lazy register asset handler auto-atlas
+2025-12-24 00:22:22-debug: lazy register asset handler label-atlas
+2025-12-24 00:22:22-debug: lazy register asset handler render-pipeline
+2025-12-24 00:22:22-debug: lazy register asset handler render-stage
+2025-12-24 00:22:22-debug: lazy register asset handler render-flow
+2025-12-24 00:22:22-debug: lazy register asset handler instantiation-material
+2025-12-24 00:22:22-debug: lazy register asset handler instantiation-mesh
+2025-12-24 00:22:22-debug: lazy register asset handler instantiation-skeleton
+2025-12-24 00:22:22-debug: lazy register asset handler instantiation-animation
+2025-12-24 00:22:22-debug: lazy register asset handler video-clip
+2025-12-24 00:22:22-debug: asset-db:worker-startup-database[assets] (1069ms)
+2025-12-24 00:22:22-debug: asset-db:start-database (1495ms)
+2025-12-24 00:22:22-debug: fix the bug of updateDefaultUserData
+2025-12-24 00:22:22-debug: asset-db:ready (8562ms)
+2025-12-24 00:22:22-debug: init worker message success
+2025-12-24 00:22:22-debug: programming:execute-script (6ms)
+2025-12-24 00:22:22-debug: [Build Memory track]: builder:worker-init start:190.57MB, end 198.97MB, increase: 8.40MB
+2025-12-24 00:22:22-debug: builder:worker-init (495ms)
+2025-12-24 00:23:08-debug: refresh db internal success
+2025-12-24 00:23:08-debug: refresh db assets success
+2025-12-24 00:23:08-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-12-24 00:23:08-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-12-24 00:23:08-debug: asset-db:refresh-all-database (230ms)
+2025-12-24 00:23:08-debug: asset-db:worker-effect-data-processing (2ms)
+2025-12-24 00:23:08-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-12-24 00:29:52-debug: refresh db internal success
+2025-12-24 00:29:52-debug: refresh db assets success
+2025-12-24 00:29:52-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-12-24 00:29:52-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-12-24 00:29:52-debug: asset-db:refresh-all-database (210ms)
+2025-12-24 00:29:52-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-12-24 00:29:52-debug: asset-db:worker-effect-data-processing (1ms)

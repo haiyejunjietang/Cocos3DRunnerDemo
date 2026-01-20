@@ -1,0 +1,15 @@
+{
+  "version": "2.3.13",
+  "sourceTimeStamp": 1763427682000,
+  "outputTimeStamps": {
+    "log.json": 1763456861791.295,
+    "out.gltf": 1763456861783.713,
+    "out.bin": 1763456861776.0093,
+    "shaded.png": 1763456860766.3384,
+    ".fbm/69D01A1A/base_basic_shaded.fbm/shaded.png": 1763456860766.3384
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

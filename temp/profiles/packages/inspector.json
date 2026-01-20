@@ -1,0 +1,47 @@
+{
+  "a4cba569-5c72-47a5-a820-79ca496e0aed@e39f7": {
+    "texture": {
+      "mipfilter": "linear"
+    }
+  },
+  "d013c751-fe41-4454-a10b-23195af69af5@6c48a": {
+    "texture": {
+      "mipfilter": "none"
+    }
+  },
+  "186e9fdb-7294-4899-919f-d2ce1e80d07c@6c48a": {
+    "texture": {
+      "mipfilter": "none"
+    }
+  },
+  "3b12e230-5331-4e2a-aa91-9412ae190646@6c48a": {
+    "texture": {
+      "mipfilter": "none"
+    }
+  },
+  "93f5cfc9-e741-4c3f-b5d6-92193779cf9d@6c48a": {
+    "texture": {
+      "mipfilter": "none"
+    }
+  },
+  "bb6f2d7c-5bd8-4716-8599-e487fe2f09b0@6c48a": {
+    "texture": {
+      "mipfilter": "none"
+    }
+  },
+  "e01c3a0c-d05a-4c4e-9e98-fc2e7cf96785@6c48a": {
+    "texture": {
+      "mipfilter": "none"
+    }
+  },
+  "d66267eb-bc54-4ad9-9282-88d7642f0053@b47c0": {
+    "texture": {
+      "mipfilter": "linear"
+    }
+  },
+  "faef5568-0807-483e-a075-5fd25fc11b3d@b47c0": {
+    "texture": {
+      "mipfilter": "linear"
+    }
+  }
+}

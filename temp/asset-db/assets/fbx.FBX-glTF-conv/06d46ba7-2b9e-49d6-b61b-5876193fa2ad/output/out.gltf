@@ -1,0 +1,332 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 860685,
+      "max": [
+        0.37148699164390564,
+        0.36665600538253784,
+        0.0
+      ],
+      "min": [
+        -0.376554012298584,
+        -0.36494600772857666,
+        -0.809211015701294
+      ],
+      "name": "material.001/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 860685,
+      "name": "material.001/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 860685,
+      "name": "material.001/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 4499214,
+      "name": "material.001/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 27541920,
+      "byteStride": 32,
+      "name": "material.001",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17996856,
+      "byteOffset": 27541920,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 45538776,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 24.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 18,
+          "hour": 17,
+          "millisecond": 354,
+          "minute": 13,
+          "month": 11,
+          "second": 1,
+          "year": 2025
+        },
+        "creator": "Blender (stable FBX IO) - 4.0.0 - 5.8.12",
+        "sceneInfo": {
+          "author": "",
+          "comment": "",
+          "keywords": "",
+          "original": {
+            "applicationName": "Blender (stable FBX IO)",
+            "applicationVendor": "Blender Foundation",
+            "applicationVersion": "4.0.0",
+            "fileName": "/foobar.fbx"
+          },
+          "revision": "",
+          "subject": "",
+          "title": "",
+          "url": "D:\\tangjianhua\\cocos games\\MyGame\\assets\\Fbx\\87f6abec74b052343f707c52178d0f14.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\tangjianhua\\cocos games\\MyGame\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\06d46ba7-2b9e-49d6-b61b-5876193fa2ad\\output\\.fbm\\CFD01BB7\\87f6abec74b052343f707c52178d0f14.fbm/texture_pbr_20250901.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\06d46ba7-2b9e-49d6-b61b-5876193fa2ad\\output\\.fbm\\CFD01BB7\\87f6abec74b052343f707c52178d0f14.fbm\\texture_pbr_20250901.png"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "texture_pbr_20250901.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\tangjianhua\\cocos games\\MyGame\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\06d46ba7-2b9e-49d6-b61b-5876193fa2ad\\output\\.fbm\\CFD01BB7\\87f6abec74b052343f707c52178d0f14.fbm/texture_pbr_20250901_normal.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\06d46ba7-2b9e-49d6-b61b-5876193fa2ad\\output\\.fbm\\CFD01BB7\\87f6abec74b052343f707c52178d0f14.fbm\\texture_pbr_20250901_normal.png"
+        }
+      },
+      "name": "normalmap_texture",
+      "uri": "texture_pbr_20250901_normal.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\tangjianhua\\cocos games\\MyGame\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\06d46ba7-2b9e-49d6-b61b-5876193fa2ad\\output\\.fbm\\CFD01BB7\\87f6abec74b052343f707c52178d0f14.fbm/texture_pbr_20250901_roughness.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\06d46ba7-2b9e-49d6-b61b-5876193fa2ad\\output\\.fbm\\CFD01BB7\\87f6abec74b052343f707c52178d0f14.fbm\\texture_pbr_20250901_roughness.png"
+        }
+      },
+      "name": "roughness_texture",
+      "uri": "texture_pbr_20250901_roughness.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\tangjianhua\\cocos games\\MyGame\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\06d46ba7-2b9e-49d6-b61b-5876193fa2ad\\output\\.fbm\\CFD01BB7\\87f6abec74b052343f707c52178d0f14.fbm/texture_pbr_20250901_metallic.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\06d46ba7-2b9e-49d6-b61b-5876193fa2ad\\output\\.fbm\\CFD01BB7\\87f6abec74b052343f707c52178d0f14.fbm\\texture_pbr_20250901_metallic.png"
+        }
+      },
+      "name": "metallic_texture",
+      "uri": "texture_pbr_20250901_metallic.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "ambientFactor": {
+                "value": 0.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 0
+                },
+                "value": [
+                  0.800000011920929,
+                  0.800000011920929,
+                  0.800000011920929
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 0.0
+              },
+              "normalMap": {
+                "texture": {
+                  "index": 1
+                },
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflection": {
+                "value": [
+                  0.800000011920929,
+                  0.800000011920929,
+                  0.800000011920929
+                ]
+              },
+              "reflectionFactor": {
+                "texture": {
+                  "index": 3
+                },
+                "value": 0.0
+              },
+              "shadingModel": "Phong",
+              "shininess": {
+                "texture": {
+                  "index": 2
+                },
+                "value": 0.0
+              },
+              "specular": {
+                "value": [
+                  0.800000011920929,
+                  0.800000011920929,
+                  0.800000011920929
+                ]
+              },
+              "specularFactor": {
+                "value": 0.5
+              },
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "phong"
+          }
+        }
+      },
+      "name": "Material.002"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "material.001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "material",
+      "rotation": [
+        0.7071067690849304,
+        0.0,
+        0.0,
+        0.7071067690849304
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "name": "convert",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "normalmap_texture",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "roughness_texture",
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "name": "metallic_texture",
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

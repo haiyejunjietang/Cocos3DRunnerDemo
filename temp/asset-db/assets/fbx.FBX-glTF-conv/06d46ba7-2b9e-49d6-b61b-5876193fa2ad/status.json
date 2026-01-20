@@ -1,0 +1,21 @@
+{
+  "version": "2.3.13",
+  "sourceTimeStamp": 1763457249864.9087,
+  "outputTimeStamps": {
+    "log.json": 1763457291419.9263,
+    "out.bin": 1763457291405.698,
+    "out.gltf": 1763457291417.92,
+    "texture_pbr_20250901_metallic.png": 1763457288591.965,
+    "texture_pbr_20250901.png": 1763457288572.922,
+    "texture_pbr_20250901_roughness.png": 1763457288589.952,
+    "texture_pbr_20250901_normal.png": 1763457288578.941,
+    ".fbm/CFD01BB7/87f6abec74b052343f707c52178d0f14.fbm/texture_pbr_20250901.png": 1763457288572.922,
+    ".fbm/CFD01BB7/87f6abec74b052343f707c52178d0f14.fbm/texture_pbr_20250901_metallic.png": 1763457288591.965,
+    ".fbm/CFD01BB7/87f6abec74b052343f707c52178d0f14.fbm/texture_pbr_20250901_roughness.png": 1763457288589.952,
+    ".fbm/CFD01BB7/87f6abec74b052343f707c52178d0f14.fbm/texture_pbr_20250901_normal.png": 1763457288578.941
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}
